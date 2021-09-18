@@ -10,3 +10,4 @@ dependencies = [
 [[package]]
 name = "functions"
 version = "0.1.0"
+source = "git+https://github.com/WhySyntax/functions#5e864e07d7257469915959bc4bc8ab283ae6002e"
